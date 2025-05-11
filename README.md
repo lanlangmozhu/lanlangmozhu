@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- GitHub 打字特效 -->
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+ lanlang+ mozhu)
 
 <!-- GitHub 统计卡片 -->
 ![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu)
@@ -49,5 +51,7 @@ Here are some ideas to get you started:
 ## Star History
 <!-- GitHub Star History -->
 [![Star History Chart](https://api.star-history.com/svg?repos=lanlangmozhu/q-utils&type=Date)](https://www.star-history.com/#lanlangmozhu/q-utils&Date)
+
+
 
 
