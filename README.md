@@ -49,7 +49,20 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
 <!-- GitHub 访客徽章 --> 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lanlangmozhu.visitor-badge&left_color=green&right_color=red)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=lanlangmozhu.visitor-badge&left_color=green&right_color=red)
+
+<!-- GitHub 活动统计图 --> 
+![lanlangmozhu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lanlangmozhu&theme=xcode)
+
+<!-- GitHub 修仙系列统计卡片 --> 
+![Taot's GitHub stats](https://github-immortality.vercel.app/api?username=lanlangmozhu)
+
+
+<!-- GitHub 连续打卡次数 --> 
+![GitHub Streak](https://streak-stats.demolab.com/?user=lanlangmozhu)
+
+<!-- GitHub 社交统计 --> 
+![csdn](https://stats.justsong.cn/api/csdn?username=lanlangmozhu&cn=true)
 
 <!-- GitHub 贪吃蛇 --> 
 <picture>
