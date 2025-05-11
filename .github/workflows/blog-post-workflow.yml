@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://taot-chen.github.io/rss.xml"
+          feed_list: "https://lanlangmozhu.github.io/rss.xml"
