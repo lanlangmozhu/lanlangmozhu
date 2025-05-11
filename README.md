@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- GitHub 打字特效 -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+ lanlang+ mozhu)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hithere!I'mlanlangmozhu)
 
 <!-- GitHub 统计卡片 -->
 ![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu)
