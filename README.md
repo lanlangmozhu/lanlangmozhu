@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi+大家好+!+我是蓝狼墨竹)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi+大家好!+我是蓝狼墨竹)
 - 🔭 目前正在构建我的个人博客和个人知识网站
 - 🌱 目前正在学习AI 大模型知识
 - 👯 希望可以跟大佬或者工作室合作开发开源项目
-- 🤔 前端技术水平不太行希望跟大佬们多多沟通
+- 🤔 前端技术水平还有待长进希望跟大佬们多多沟通
 <!--- 💬  -->
 - 📫 邮箱：lanlangmozhu@163.com
 <!-- - 😄 Pronouns: ... -->
