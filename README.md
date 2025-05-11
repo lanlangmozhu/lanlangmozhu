@@ -39,7 +39,12 @@ Here are some ideas to get you started:
 <!-- GitHub 访客徽章 --> 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lanlangmozhu&left_color=green&right_color=red)
 
-
+<!-- GitHub 贪吃蛇 --> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lanlangmozhu/lanlangmozhu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanlangmozhu/lanlangmozhu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lanlangmozhu/lanlangmozhu/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
