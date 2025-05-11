@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- GitHub 统计卡片 -->
 ![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu)
+<!-- GitHub 使用语言统计 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanlangmozhu&size_weight=0.5&count_weight=0.5&langs_count=8)
+<!-- GitHub Gist Pins --> 
+<a href="https://github.com/lanlangmozhu/lanlangmozhu.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lanlangmozhu&repo=lanlangmozhu.github.io&theme=default" />
+<a href="https://github.com/lanlangmozhu/q-utils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lanlangmozhu&repo=q-utils&theme=default" />
 
