@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 我是蓝狼墨竹
+- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi+大家好+!+我+是+蓝+狼+墨+竹)
 - 🔭 目前正在构建我的个人博客和个人知识网站
 - 🌱 目前正在学习AI 大模型知识
 - 👯 希望可以跟大佬或者工作室合作开发开源项目
@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 - 📫 邮箱：lanlangmozhu@163.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
 <!-- GitHub 打字特效 -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi+there+!I'm+lanlang+mozhu)
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi+there+!I'm+lanlang+mozhu) -->
 
 <!-- GitHub 统计卡片 -->
 ![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu)
