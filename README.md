@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 <!-- GitHub 连续打卡次数 --> 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lanlangmozhu)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lanlangmozhu&theme=dark&locale=zh_Hans&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 <!-- GitHub 社交统计 --> 
 <!-- ![csdn](https://stats.justsong.cn/api/csdn?username=lanlangmozhu&cn=true) -->
