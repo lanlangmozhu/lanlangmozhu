@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lanlangmozhu/lanlangmozhu/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lanlangmozhu/lanlangmozhu/output/github-contribution-grid-snake.svg">
 </picture>
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=lanlangmozhu/q-utils&type=Date)](https://www.star-history.com/#lanlangmozhu/q-utils&Date)
 
 
