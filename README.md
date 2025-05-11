@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
 <!-- GitHub 访客徽章 --> 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lanlangmozhu&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lanlangmozhu.visitor-badge&left_color=green&right_color=red)
 
 <!-- GitHub 贪吃蛇 --> 
 <picture>
