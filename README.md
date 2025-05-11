@@ -75,6 +75,16 @@ Here are some ideas to get you started:
 <!-- GitHub Star History -->
 [![Star History Chart](https://api.star-history.com/svg?repos=lanlangmozhu/q-utils&type=Date)](https://www.star-history.com/#lanlangmozhu/q-utils&Date)
 
+<!-- GitHub  贡献者列表 -->
+## Contributors
+<!-- https://allcontributors.org/docs/en/bot/installation -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
+[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/q-utils?color=ee8449&style=flat-square)](#contributors)
