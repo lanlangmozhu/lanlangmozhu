@@ -32,4 +32,14 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=lanlangmozhu&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub 徽章 --> 
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
+<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+
+<!-- GitHub 访客徽章 --> 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lanlangmozhu&left_color=green&right_color=red)
+
+
+
+
 
