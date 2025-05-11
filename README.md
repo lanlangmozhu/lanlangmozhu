@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 <!-- GitHub 资料奖杯 --> 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lanlangmozhu&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!-- GitHub 徽章 --> 
 
