@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi+there+!I'm+lanlang+mozhu) -->
 
 <!-- GitHub 统计卡片 -->
-<!-- ![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu) -->
+<a href="#"> ![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu) </a>
 
 <!-- GitHub 使用语言统计 -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanlangmozhu&size_weight=0.5&count_weight=0.5&langs_count=8) -->
+<a href="#"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanlangmozhu&size_weight=0.5&count_weight=0.5&langs_count=8) </a>
 
 <!-- GitHub Gist Pins --> 
 <!-- <a href="https://github.com/lanlangmozhu/lanlangmozhu.github.io">
