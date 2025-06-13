@@ -35,11 +35,14 @@ Here are some ideas to get you started:
 ## ⚡ Github Stats  ⚡ Github 统计
 <!-- GitHub 统计卡片 -->
 
-![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-
+<a target="#"> ![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+ </a> 
 <!-- GitHub 使用语言统计 -->
+<a target="#"> 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanlangmozhu&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
+ </a> 
 <!-- GitHub Gist Pins --> 
 <!-- <a href="https://github.com/lanlangmozhu/lanlangmozhu.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lanlangmozhu&repo=lanlangmozhu.github.io&theme=default" />
