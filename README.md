@@ -32,17 +32,13 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=js,html,css,ts,nodejs,vue,jquery,pinia,sass,pnpm,wordpress,webpack,vite&theme=dark" />
 <!-- GitHub 打字特效 -->
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hi+there+!I'm+lanlang+mozhu) -->
+
 ## ⚡ Github Stats  ⚡ Github 统计
-<!-- GitHub 统计卡片 -->
 
-<a target="#"> ![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu&theme=blueberry&count_private=true&hide_border=true&line_height=20)
- </a> 
-<!-- GitHub 使用语言统计 -->
-<a target="#"> 
-
+<a target="#">![lanlangmozhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanlangmozhu&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanlangmozhu&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
- </a> 
+</a> 
 <!-- GitHub Gist Pins --> 
 <!-- <a href="https://github.com/lanlangmozhu/lanlangmozhu.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lanlangmozhu&repo=lanlangmozhu.github.io&theme=default" />
